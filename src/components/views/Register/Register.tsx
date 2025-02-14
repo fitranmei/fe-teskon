@@ -16,7 +16,7 @@ const Register = () => {
                     height={180}
                 />
                 <Image 
-                    src="/images/ilustrations/login.svg" 
+                    src="/images/ilustrations/Login.svg" 
                     alt="Login" 
                     className="w-2/3 lg:w-full"
                     width={1024}
