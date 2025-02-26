@@ -14,7 +14,7 @@ const RegisterSucces = () => {
                     height={180}
                 />
                 <Image 
-                    src="/images/ilustrations/success.svg" 
+                    src="/images/ilustrations/email-send.svg" 
                     alt="Success" 
                     width={300}
                     height={300}
